@@ -5,5 +5,5 @@ Group : B07
 Members :
 - Alice Koh Yi Wen 
 - Ang Li Xin (33918635)
-- Chai Tong Yang
+- Chai Tong Yang (33520275)
 - Ryan Tan Yi Xing
