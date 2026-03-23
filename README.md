@@ -5,5 +5,5 @@ Group : B07
 Members :
 - Alice Koh Yi Wen 
 - Ang Li Xin (33918635)
-- Chai Tong Yang (33520275)
+- Chai Tong Yang: GitHub - tongyang31, ID - 33520275, Email - tcha0124@student.monash.edu
 - Ryan Tan Yi Xing
